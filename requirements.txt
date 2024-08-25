@@ -1,0 +1,9 @@
+langchain
+langchain_huggingface
+langchain_core
+PyPDF2
+bitsandbytes
+setuptools
+streamlit
+
+-e.

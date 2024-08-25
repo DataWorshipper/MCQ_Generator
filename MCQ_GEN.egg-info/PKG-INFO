@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: MCQ_GEN
+Version: 0.0.1
+Author: Abhiraj Mandal
+Author-email: mandalabhiraj04@gmail.com
+License-File: LICENSE
+Requires-Dist: langchain
+Requires-Dist: langchain_huggingface
+Requires-Dist: langchain_core
+Requires-Dist: PyPDF2
+Requires-Dist: bitsandbytes
+Requires-Dist: streamlit
